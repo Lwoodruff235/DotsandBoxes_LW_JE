@@ -258,5 +258,5 @@ class Dots_and_Boxes():
             self.reset_board = False
 
 
-game_instance = Dots_and_Boxes()
-game_instance.mainloop()
+dab = Dots_and_Boxes()
+dab.mainloop()
